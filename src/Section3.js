@@ -12,7 +12,8 @@ const Section3 = () => {
                 <div className='section3_list'>
                     <h2>Build your course</h2>
                     <p>Easily upload videos, build quizzes, and organize all your learning content with our drag and drop builder. 
-                        Set pricing, schedule lessons, and automate your content to curate a learning experience your students will love.</p>
+                        Set pricing, schedule lessons, and automate your content to curate a learning experience your students will love.
+                    </p>
                     
                     <ul>
                         <li>Design your course site</li>
