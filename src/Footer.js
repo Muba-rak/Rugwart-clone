@@ -10,7 +10,6 @@ const Footer = () => {
                 <div className='ppp'>
                     <p>Bridging the gap between dreams and reality</p>
                 </div>
-                
                 <i class="fa-brands fa-facebook"></i>
                 <i class="fa-brands fa-instagram"></i>
                 <i class="fa-brands fa-twitter-square"></i>
